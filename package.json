@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [cordova-plugin-inappbrowser (v1.7.0)](https://github.com/apache/cordova-plugin-inappbrowser#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-inappbrowser.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-inappbrowser) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-inappbrowser.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-inappbrowser)",
+    "description": "#### basic test coverage for  [cordova-plugin-inappbrowser (v1.7.0)](https://github.com/apache/cordova-plugin-inappbrowser#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-inappbrowser.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-inappbrowser) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-inappbrowser.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-inappbrowser)",
     "devDependencies": {
         "cordova-plugin-inappbrowser": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
